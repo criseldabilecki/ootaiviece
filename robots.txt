@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iavaejixa.badomm.com/sitemap.xml
